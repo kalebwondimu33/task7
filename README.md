@@ -4,7 +4,8 @@
 
 ## Screenshots
 
-[Download and watch the demo video](./public/screenshot/screen-capture.webm)
+
+[screen-capture (1).webm](https://github.com/user-attachments/assets/9392066d-68a9-44d9-bd04-22340e8ea52d)
 
 ## Features
 
