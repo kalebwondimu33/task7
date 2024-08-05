@@ -1,4 +1,4 @@
-import Listings from "./components/Listing";
+import Listings from "../components/Listing";
 
 export default function Home() {
   return (
